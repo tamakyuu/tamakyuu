@@ -1,5 +1,5 @@
 
-$${\textsf{\color{#C6DBEF}︶ ⏝ ︶ ୨୧ ︶ ⏝ ︶}}$$
+$${\textsf{\color{#ffffff}︶ ⏝ ︶ ୨୧ ︶ ⏝ ︶}}$$
 
 <img width="1199" height="813" alt="image" src="https://github.com/user-attachments/assets/6d52eb6d-68a3-44ad-8add-6fb99c089abc" />
 
