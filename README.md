@@ -1,16 +1,22 @@
-## Hi there 👋
 
-<!--
-**tamakyuu/tamakyuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+$${\textsf{\color{#C6DBEF}︶ ⏝ ︶ ୨୧ ︶ ⏝ ︶}}$$
 
-Here are some ideas to get you started:
+<img width="1199" height="813" alt="image" src="https://github.com/user-attachments/assets/6d52eb6d-68a3-44ad-8add-6fb99c089abc" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+$${\textsf{\color{#8D4F6B} c⭒𝓱 𝕒𝕝𝕨𝕒𝕪𝕤}}$$
+
+
+
+<img align="left" width="400" height="413" alt="image" src="https://github.com/user-attachments/assets/186f9087-615a-4019-a8f8-c2264d2614a8" />
+
+
+$${\color{#6F7396} ͜͝ ͡  ݁⑅ִ۫　}$$　 if　i　could　become　like　you　…
+
+then　wouldn’t　my　impossible　ideal 
+
+become　　possible　　 $${\color{#8D4F6B}?}$$
+
+  
