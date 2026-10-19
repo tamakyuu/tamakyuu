@@ -23,4 +23,4 @@ $${\textsf{\color{#BD4B82}c+h always !!}}$$
 
 &nbsp;
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31c72fg7cgmrffohpsitv52mgi54&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=true&bar_color=c2c2c2&bar_color_cover=true&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=31c72fg7cgmrffohpsitv52mgi54&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31c72fg7cgmrffohpsitv52mgi54&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=true&mode=dark&bar_color=adadad&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31c72fg7cgmrffohpsitv52mgi54&redirect=true)
